@@ -1,3 +1,3 @@
 # Data_analysis_projects
 
-#### Here are some data analysis projects using Jupyter notebook.
+#### Here are some python projects concering data analysis using Jupyter notebook.
